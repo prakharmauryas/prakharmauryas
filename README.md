@@ -42,7 +42,7 @@
 
 - 📧 Email: your-email@example.com  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/your-linkedin/)  
-- 🧠 [Chess.com](https://www.chess.com/member/your-profile) *(optional)*  
+- 🧠 [Chess.com](https://www.chess.com/member/prakharmauryas) *(optional)*  
 - 🌐 Portfolio Website *(if you have one)*
 
 ---
