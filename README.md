@@ -1,52 +1,88 @@
-<h1 align="center">Hi, I'm Prakhar Maurya 👋</h1>
+<h1 align="center">Hi 👋, I'm Prakhar Maurya</h1>
+<p align="center">
+  <strong>ECE Graduate from AKGEC | Future Tech Architect 🧠</strong>  
+</p>
 
 <p align="center">
-🎓 ECE Graduate | 💻 Software & Hardware Enthusiast | ♟ Logical Thinker  
+  🚀 Exploring: <strong>AI/ML</strong>, <strong>IoT & Embedded Systems</strong>, <strong>Robotics</strong>, <strong>Cybersecurity</strong>  
+  <br>
+  ♟️ Passionate about puzzles, chess, Rubik’s cube & logic games  
+  <br>
+  🧑‍💻 Constantly learning & building across multiple domains
 </p>
 
 ---
 
-### 👨‍💻 About Me
+## 🔍 About Me
 
-- 🔭 Currently exploring **Software Development, Data Science, AI, IoT, and Robotics**
-- 🧠 Passionate about **Cybersecurity**, **Ethical Hacking**, and **Embedded Systems**
-- 💡 Logical thinker who enjoys solving **Rubik’s cubes**, **puzzles**, and **playing chess**
-- 🏏 Cricket lover & puzzle-solving enthusiast  
-- 📚 Lifelong learner, always curious
-
----
-
-### 🚀 Tech Stack
-
-**Languages:**  
-`Python` | `C/C++` | `Java` | `Verilog` | `MATLAB` | `HTML` | `CSS` | `JavaScript`  
-**Tools & Platforms:**  
-`Arduino` | `Raspberry Pi` | `Quartus` | `MATLAB` | `VS Code` | `Git` | `Linux`  
-**Frameworks & Libraries:**  
-`TensorFlow` | `PyTorch` | `OpenCV` | `Flask` | `Streamlit` | `NumPy` | `Pandas`  
-**Cloud & DevOps:**  
-`Azure` | `AWS (basic)` | `Docker (learning)` | `GitHub Actions`
+- 🎓 Electronics & Communication Engineering graduate from **AKGEC**
+- 💡 Passionate about **Software Development, AI, IoT, Robotics, CyberSecurity & Ethical Hacking**
+- 🧠 Logical thinker, loves **problem-solving**, **chess**, and **Rubik’s cube**
+- ⚙️ Enjoys hands-on work with **Arduino, Raspberry Pi**, and **Hardware Programming**
+- 🌱 Currently diving deep into **Machine Learning**, **Python**, and **Cloud Projects**
+- 🎯 Goal: Build smart systems that blend **software + hardware + intelligence**
+- 📬 Reach me: `prakharmauryas@gmail.com`
 
 ---
 
-### 📌 Projects Highlights
+## 🛠️ Tech Focus & Tools
 
-- 🔹 [CustomerServiceAI](https://github.com/prakharmauryas/CustomerServiceAI): AI chatbot for CRM using Azure  
-- 🔹 [Portfolio](https://github.com/prakharmauryas/Portfolio): Personal website using HTML/CSS  
-- 🔹 [LogisticsShippingRates](https://github.com/prakharmauryas/LogisticsShippingRates): Predictive analytics for logistics  
-- 🔹 [testrepo](https://github.com/prakharmauryas/testrepo): ML repo for Coursera  
+<p align="center">
+  <img src="https://img.shields.io/badge/Machine%20Learning-yellow?style=for-the-badge&logo=scikit-learn&logoColor=black" />
+  <img src="https://img.shields.io/badge/Data%20Science-blue?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/IoT-lightgrey?style=for-the-badge&logo=raspberrypi&logoColor=green" />
+  <img src="https://img.shields.io/badge/Cybersecurity-black?style=for-the-badge&logo=protonvpn&logoColor=green" />
+  <img src="https://img.shields.io/badge/Embedded%20Systems-orange?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI-purple?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Robotics-gray?style=for-the-badge&logo=robotframework&logoColor=red" />
+  <br><br>
+  <img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Verilog-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white" />
+</p>
 
 ---
 
-### 📫 Let's Connect!
+## 📈 GitHub Stats & Analytics
 
-- 📧 Email: your-email@example.com  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/your-linkedin/)  
-- 🧠 [Chess.com](https://www.chess.com/member/prakharmauryas) *(optional)*  
-- 🌐 Portfolio Website *(if you have one)*
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prakharmauryas&show_icons=true&theme=radical" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=prakharmauryas&theme=radical&hide_border=true" width="47%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakharmauryas&layout=compact&theme=tokyonight" width="50%" />
+</p>
 
 ---
 
-### 💡 Fun Fact
+## 🧠 Fun Facts
 
-> "I can solve a Rubik’s Cube faster than you can find a bug in your code!" 😉
+- 🤖 Built my first IoT project at age 19  
+- ♟️ Solved a 3x3 Rubik's cube in under **30 seconds**  
+- 💬 I believe logic is the bridge between art and science  
+- 🕹️ Enjoys building and breaking tech just to learn how it works!
+
+---
+
+## 📫 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/prakharmauryas/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:prakhar.myself@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/prakharmauryas" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">"Code is poetry, and logic is the rhythm." 🎵</p>
